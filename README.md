@@ -6,3 +6,6 @@ shardha khapra
 
 # student
 Abid khan
+
+# subject
+web dev
